@@ -1,3 +1,3 @@
 # CRUDS
-CRUDS de los 3 manejadores
+CRUDS del sql Managment Studio
 Gilberto Treviño Borrego I20050042
